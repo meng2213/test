@@ -9,6 +9,4 @@
   "updateInternalDependencies": "patch",
   "ignore": []
 }
-{
-  "showSidebar": true
-}
+
