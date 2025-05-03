@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "logo": "logo.jpg",
+    "title": "My AI learn",
+    "links": [
+      {
+        "href": "/WBE ui",
+        "name": "WBE ui"
+      },
+      {
+        "href": "/Comfyui",
+        "name": "Comfyui"
+      }
+    ],
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/yourusername"
+      },
+      {
+        "label": "twitter",
+        "name": "Follow me on weibo",
+        "href": "https://weibo.com/yourusername"
+      }
+    ]
+  }
+}
+{
+  "showSidebar": true
+}
