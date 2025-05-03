@@ -22,4 +22,4 @@
 ## 效率从何而来^[[如何更有效地学习（来自一个努力学习的尝试者）jay skullz_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV16XDoYhEwT?spm_id_from=333.788.videopod.sections&vd_source=5af7a93b479559f96fc7da249930a552)]
 1. 一套学习系统（习惯）
 	1. 计划
-	2. 
+	2. ![[Pasted image 20250504001204.png]]
