@@ -7,4 +7,4 @@ export default {
       level: "error",
     };
     return config;
-  },
+  }
