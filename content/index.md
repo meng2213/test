@@ -1,13 +1,21 @@
 ---
-日期: 2025-05-04
+title: Welcome to my blog!
+showHero: "true"
+description: Join me as I explore the world, code, and the little things in life that make it wonderful.
 ---
----
----
+
 showHero: true
 title: Welcome to my blog!
 description: Join me as I explore the world, code, and the little things in life that make it wonderful.
 ---
+
 ---
+image: /hero.png
+---
+
+
+
+
 
 # 这是一个大标题
 ![[Pasted image 20250502175814.png]]
