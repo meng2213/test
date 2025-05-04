@@ -19,8 +19,8 @@ module.exports = {
       },
       fontFamily: {
         sans: ["Noto+Serif+SC", ...defaultTheme.fontFamily.sans],
-        serif: ["ui-serif", ...defaultTheme.fontFamily.serif],
-        mono: ["ui-monospace", ...defaultTheme.fontFamily.mono],
+        serif: ["Noto+Serif+SC", ...defaultTheme.fontFamily.serif],
+        mono: ["Noto+Serif+SC", ...defaultTheme.fontFamily.mono],
         headings: ["Noto+Serif+SC", ...defaultTheme.fontFamily.sans],
       },
       colors: {
