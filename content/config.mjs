@@ -10,7 +10,7 @@ const config = {
   // author of site displayed on the bottom of your site
   author: "M",
   // logo image
-  authorLogo: "/images/logo.jpg",
+  authorLogo: "/content/assets/logo.jpg",
   // url to author website
   navLinks: [{ href: "/about", name: "不要点进来" }],
   // 添加 showSidebar 配置
