@@ -18,10 +18,10 @@ module.exports = {
         "8xl": "88rem",
       },
       fontFamily: {
-        sans: ["Noto+Serif+SC", ...defaultTheme.fontFamily.sans],
-        serif: ["Noto+Serif+SC", ...defaultTheme.fontFamily.serif],
-        mono: ["Noto+Serif+SC", ...defaultTheme.fontFamily.mono],
-        headings: ["Noto+Serif+SC", ...defaultTheme.fontFamily.sans],
+        sans: ["Noto Serif Simplified Chinese", ...defaultTheme.fontFamily.sans],
+        serif: ["Noto Serif Simplified Chinese", ...defaultTheme.fontFamily.serif],
+        mono: ["Noto Serif Simplified Chinese", ...defaultTheme.fontFamily.mono],
+        headings: ["Noto Serif Simplified Chinese", ...defaultTheme.fontFamily.sans],
       },
       colors: {
         background: {
