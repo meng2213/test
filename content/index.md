@@ -1,7 +1,7 @@
 ---
-title: Welcome to my blog!
-showHero: "true"
-description: Join me as I explore the world, code, and the little things in life that make it wonderful.
+title：: Welcome to my blog!
+showHero：: "true"
+description：: Join me as I explore the world, code, and the little things in life that make it wonderful.
 ---
 
 showHero: true
