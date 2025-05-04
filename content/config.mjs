@@ -5,7 +5,8 @@
 const config = {
   // title will be displayed on the top of your site
   title: "一个简单的网页",
-  date: 2025-05-04               # Use YYYY-MM-DD format
+  date: 2025-05-04               
+  // Use YYYY-MM-DD format
   // adding a description helps with SEO
   description: "开发测试",
   // author of site displayed on the bottom of your site
