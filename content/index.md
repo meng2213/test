@@ -2,7 +2,7 @@
 title：:
   - Welcome to my blog!
 ---
-# 这是一个大标题
+# 这是一个大标题啊
 ![[Pasted image 20250502175814.png]]
 
 ![[Pasted image 20250502110842.jpg]]
