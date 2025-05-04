@@ -4,17 +4,15 @@
  */
 const config = {
   // title will be displayed on the top of your site
-  title: "My Awesome Blog",
+  title: "一个简单的网页",
   // adding a description helps with SEO
-  description: "This is my awesome blog built with Flowershow",
+  description: "开发测试",
   // author of site displayed on the bottom of your site
-  author: "John",
+  author: "M",
   // logo image
-  authorLogo: "/images/logo.svg",
+  authorLogo: "/images/logo.jpg",
   // url to author website
-  domain: "https://john.app/",
-  // links to the pages you want to link to in the navbar
-  navLinks: [{ href: "/about", name: "About" }],
+  navLinks: [{ href: "/about", name: "不要点进来" }],
   // 添加 showSidebar 配置
   showSidebar: true,
 };
