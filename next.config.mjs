@@ -8,5 +8,3 @@ export default {
     };
     return config;
   },
-  showSidebar: true,
-};
